@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ItzmeSwapy 
-
-Fake-Tweet-Generator-with-React
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Fake-Tweet-Generator-with-React/src/App.js /
-
-
 import React, { useState, createRef, useEffect } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import MultiToggle from "react-multi-toggle"
@@ -340,7 +319,7 @@ export default function App() {
                 <div className="footer-bottom">
                         <Row style={{margin:"0px"}}>
                             <div className="col-lg-12 text-center"><span> Made with <i
-                                className="fa fa-heart m-lr5 text-red heart"></i> by <a href="https://www.serdarbudak.com.tr"> Serdar Budak </a></span>
+                                className="fa fa-heart m-lr5 text-red heart"></i> by <a href="https://www.sswap.me"> Swapnil Honamode </a></span>
 
 
                             </div>
